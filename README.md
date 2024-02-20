@@ -3,7 +3,7 @@
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
 # Why?
-Nothing really changed and they still keep on skidding to this day.
+Nothing really changed and they still keep on skidding to this day. Also here is a funny (sad) bloody client moment -> ![image](https://media.discordapp.net/attachments/1196115644593209415/1209213773240336404/GQ2Gk1H.png?ex=65e61b15&is=65d3a615&hm=562dc7cf6b50eb6b65417f46076af33e2194e9e51951a836781e3e58281a4ad8&=&format=webp&quality=lossless&width=1920&height=189)
 
 [3000IQPlayA]: https://github.com/3000IQPlay
 
