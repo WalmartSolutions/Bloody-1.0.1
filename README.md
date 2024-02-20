@@ -15,7 +15,7 @@ PS: All connections have been removed.
 3. Start the game (with Fabric)
 
 # Credits
-- ??? - Making the client.
+- CRAAAAZY & Twilight - "Making the client".
 - [3000IQPlay][3000IQPlayA] - Cracking, Removing Connections.
 - ??? - Providing a jar.
 
