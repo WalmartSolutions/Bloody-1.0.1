@@ -19,6 +19,6 @@ PS: All connections have been removed.
 - [3000IQPlay][3000IQPlayA] - Cracking, Removing Connections.
 - ??? - Providing a jar.
 
-# GUI
+# GUI (Bind: RShift)
 
 ![image](https://media.discordapp.net/attachments/1003219031635001414/1209215028293668975/DtTdQ1U.png?ex=65e61c40&is=65d3a740&hm=6ad8da8a4e18399d0e18efc3f0eebba37375433edf9156c69c16bff357c74861&=&format=webp&quality=lossless&width=825&height=463)
