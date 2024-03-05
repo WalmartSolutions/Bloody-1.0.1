@@ -9,8 +9,8 @@ This client has 1 of the worst security that i have seen since 3000 bc. This cli
 [addressnoppingA]: https://github.com/addressnopping
 
 # How To Use
-1. Download the GrimCrack-Loader.exe
-2. Run GrimCrack-Loader.exe and chose the version you want to download
+1. Download the GrimBigTrolling.exe
+2. Run GrimBigTrolling.exe and choose the version you want to download
 3. Start game in Lunar (with Fabric)
 
 # Credits
